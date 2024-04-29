@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>ICT 14-15</title>
+</head>
+<body>
+<h1> Aikyn Bakberdi цифрлық тарих және археология ШТРИХ КОДЫ:6В01609=</h1>
+<a href=https://aikyn040206.wixsite.com/my-site-4"> wix сайтына сылтеме</a>
+<br>
+<img src="https://static.wixstatic.com/media/2c2d61_ca363648a4c44a6d9875bbbc55b2c9d4~mv2.jpeg/v1/fill/w_445,h_445,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2c2d61_ca363648a4c44a6d9875bbbc55b2c9d4~mv2.jpeg" width="250"/>
+</body>
+</html>
